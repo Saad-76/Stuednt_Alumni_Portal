@@ -1,0 +1,115 @@
+.background-image-login{
+    background-image: url("../Assests/BackgroundImageForm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login-divs{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+        background-color: #ffffff;
+        border-radius: 1.2rem;
+        box-shadow: -3px 3px 14px 0px #0000002b;
+        padding: 20px 0px;
+        margin: 5% 20%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width:60%
+
+}
+.login-text{
+    padding: 5px 40px;
+}
+.login-image{
+    margin-left: 20%;
+}
+.logo-bottom-text{
+    /* padding: 20px 0; */
+    padding-top: 20px;
+    padding-bottom: 4px;
+    text-align: center;
+}
+.login-form-heading{
+    margin-left: 20%;
+}
+
+.input-email{
+    padding: 2px 2px;
+    margin: 18px  0;
+}
+
+.input-password{
+    padding: 2px 2px;
+    margin: 0 0;
+}
+
+
+.text-style-loginform{
+    padding: 2px 2px;
+    margin: 0 220px;
+}
+.register-button-loginForm{
+    background: #1a7221;
+    color: #fff;
+    height: 35px;
+    padding: 0 12px;
+    align-items: center;
+    margin-left: 26%;
+    box-shadow: 0px 8px 9px 0px rgb(96 94 94 / 17%);
+    /* border-radius: 20px; */
+    font-size: 20px;
+}
+.login-button-style{
+    
+     /* text-align: center; */
+        background: #4f3ada;
+        color: #fff;
+        height: 35px;
+        padding: 0 12px;
+        align-items: center;
+        margin-left: 24%;
+        box-shadow: 0px 8px 9px 0px rgb(96 94 94 / 17%);
+        /* border-radius: 20px; */
+        font-size: 20px;
+ 
+}
+
+.login-fields-heading{
+    margin-left: 3%;
+}
+.login-input-fiedls{
+    margin-left: 10%;
+}
+.forget-password{
+    margin-left: 20%;
+    padding-top: 2%;
+    margin-bottom: 0;
+
+}
+.have-account{
+    margin-left: 12%;
+    margin-bottom: 0;
+}
+.register-now{
+    margin-left: 23%;
+}
+
+.bottom-text-login{
+padding: 0 8px;
+}
+.input-email-login{
+
+    padding: 4px 18px;
+    margin: 4% 0;
+background-color: white;
+
+}
+.input-password-login{
+
+    padding: 4px 18px;
+    margin: 0 0;
+    background-color: white;
+
+}

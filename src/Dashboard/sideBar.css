@@ -1,0 +1,24 @@
+.siderbar_style {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  padding-top: 120px;
+  position: fixed;
+  top: 4%;
+}
+
+.sidebar_border {
+  border: 1px solid rgb(0, 0, 0);
+  width: 100px;
+  height: 60px;
+}
+.sidebar_nav_style a {
+  text-decoration: none;
+  font-weight: bold;
+
+  color: rgb(0, 0, 0);
+}
+
+.sidebar_nav_style :hover {
+  color: red;
+}

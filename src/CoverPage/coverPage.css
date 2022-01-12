@@ -1,0 +1,17 @@
+.coverpage-Content{
+    padding-top: 12%;
+    display: flex;
+    padding-top: 2%;
+
+}
+.coverpage-heading-style{
+    padding-top: 2%;
+    padding-left: 12%;
+
+}
+.coverpage-text{
+    padding: 0 140px;
+}
+.coverpageimage{
+    padding-top: 2%;
+}
